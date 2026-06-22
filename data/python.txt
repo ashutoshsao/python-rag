@@ -1,0 +1,5 @@
+Python is a high-level programming language.RAG
+It is popular for backend development, automation, data science, and artificial intelligence.
+In AI applications, Python is commonly used for embeddings, retrieval, model APIs, and agent systems.
+A RAG system retrieves relevant context from documents before asking an LLM to answer.RAG
+python is amazing for ai applied engineering because it is first choice for ml researchers and engineers
